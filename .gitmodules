@@ -1,3 +1,6 @@
 [submodule "frontend/admin"]
 	path = frontend/admin
 	url = https://github.com/selvaganesh-k/frontend-admin.git
+[submodule "frontend/user"]
+	path = frontend/user
+	url = https://github.com/selvaganesh-k/frontend-user.git
